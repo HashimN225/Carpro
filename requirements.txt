@@ -1,0 +1,11 @@
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.3
+Flask-WTF==1.1.1
+SQLAlchemy==2.0.19
+Werkzeug==2.3.7
+psycopg2-binary==2.9.7 
+gunicorn==21.2.0
+<<<<<<< HEAD
+
+=======
+>>>>>>> 820c875d7cd5532f27b80e5ed5829fe40fe36747
